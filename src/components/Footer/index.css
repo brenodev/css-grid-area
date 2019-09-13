@@ -1,0 +1,5 @@
+.item4 {
+  background: lightpink;
+  grid-area: footer;
+  height: 60px;
+}
